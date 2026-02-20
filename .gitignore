@@ -1,0 +1,8 @@
+downloader.log
+venv/
+__pycache__/
+
+# Ignore all .pyc files
+*.pyc
+eod_data/
+amibroker_data/
